@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to My Website</h1>
+        </header>
+        <main>
+            <div class="image-container">
+                <img id="main-image" src="placeholder.jpg" alt="Main Image">
+            </div>
+            <div class="message-container">
+                <h2>Leave a Message</h2>
+                <textarea id="message-input" rows="4" cols="50" placeholder="Enter your message here..."></textarea>
+                <button onclick="addMessage()">Add Message</button>
+                <div id="message-list"></div>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
