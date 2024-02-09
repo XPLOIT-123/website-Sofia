@@ -1,14 +1,6 @@
 {
   "name": "Sofia",
   "greetingText": "Espero que estejas a gostar de Madrid!",
-  "wishText": """Meu amor,
-
-Neste dia especial, quero deixar-te saber o quanto significas para mim. És a luz que ilumina os meus dias e o calor que aquece o meu coração. Cada momento contigo é um presente precioso, e sou grato por cada riso partilhado, cada abraço apertado e cada sonho que construímos juntos.
-És a razão pela qual o meu mundo é mais bonito, mais colorido e cheio de amor. A tua presença na minha vida é um tesouro que guardarei para sempre. O nosso amor é uma jornada incrível, e estou tão feliz por ter-te ao meu lado em cada passo do caminho.
-Neste Dia dos Namorados, quero renovar o meu compromisso contigo e prometer que estarei sempre aqui para te amar, apoiar e cuidar de ti. Que o nosso amor continue a crescer e a florescer, enchendo as nossas vidas de alegria e felicidade.
-Amo-te mais do que as palavras podem expressar, e mal posso esperar para criar mais memórias incríveis juntos. Feliz Dia dos Namorados, meu amor.
-
-Com todo o meu amor,
-David""",
+  "wishText": "Meu amor,\n\nNeste dia especial, quero deixar-te saber o quanto significas para mim. És a luz que ilumina os meus dias e o calor que aquece o meu coração. Cada momento contigo é um presente precioso, e sou grato por cada riso partilhado, cada abraço apertado e cada sonho que construímos juntos.\n\nÉs a razão pela qual o meu mundo é mais bonito, mais colorido e cheio de amor. A tua presença na minha vida é um tesouro que guardarei para sempre. O nosso amor é uma jornada incrível, e estou tão feliz por ter-te ao meu lado em cada passo do caminho.\n\nNeste Dia dos Namorados, quero renovar o meu compromisso contigo e prometer que estarei sempre aqui para te amar, apoiar e cuidar de ti. Que o nosso amor continue a crescer e a florescer, enchendo as nossas vidas de alegria e felicidade.\n\nAmo-te mais do que as palavras podem expressar, e mal posso esperar para criar mais memórias incríveis juntos. Feliz Dia dos Namorados, meu amor.\n\nCom todo o meu amor,\nDavid"
   "imagePath": "img/vector.jpg"
 }
