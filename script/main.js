@@ -256,8 +256,8 @@ const animationTimeline = () => {
       zIndex: "-1",
     })
     
-    .from(".background-image", 1, { opacity: 0 }) // Animação para mostrar a imagem de fundo
-    .staggerFrom(".rose", 1, { opacity: 0, scale: 0 }, 0.5); // Animação para mostrar as rosas
+    //.from(".background-image", 1, { opacity: 0 }) // Animação para mostrar a imagem de fundo
+    //.staggerFrom(".rose", 1, { opacity: 0, scale: 0 }, 0.5); // Animação para mostrar as rosas
   
     .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
     .to(
