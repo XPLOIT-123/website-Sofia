@@ -255,13 +255,6 @@ const animationTimeline = () => {
       y: 30,
       zIndex: "-1",
     })
-    
-    // Add animation for showing the background image
-    tl.from(".background-image", 1, { opacity: 0 })
-    
-    // Add animation for showing the roses
-    .staggerFrom(".rose", 1, { opacity: 0, scale: 0 }, 0.5);
-  
     .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
     .to(
       ".last-smile",
