@@ -264,9 +264,7 @@ const animationTimeline = () => {
       },
       "+=1"
 
-      // Before the last animation
-      .to(".background-image", 1, { opacity: 1 }) // Fade in background image
-      .staggerFrom(".rose", 1, { opacity: 0, scale: 0 }, 0.5); // Fade in roses
+     
     );
     
  
