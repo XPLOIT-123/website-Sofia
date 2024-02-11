@@ -263,7 +263,12 @@ const animationTimeline = () => {
         rotation: 90,
       },
       "+=1"
-    );
+    )
+    .from(".image-element", 0.5, {
+      opacity: 0, // opacidade inicial (imagem invisível)
+      scale: 0.5, // escala inicial (opcional)
+      ease: Power1.easeInOut // tipo de transição (opcional)
+    });
     
  
   // tl.seek("currentStep");
