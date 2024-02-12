@@ -296,14 +296,11 @@ body {
     font-size: 1.4rem;
   }
 
-  .background-image {
-    display: block;
-    width: 70%;
-    height: 50%;
-    background-size: contain;
-    background-position: center;
-    z-index: -1; /* Para garantir que a imagem de fundo fique atrás de outros conteúdos */
-  }
+  .background-image image-element {
+  display: inline-block;
+  max-width: 45%;
+  height: auto;
+}
 
 
   .nine p {
