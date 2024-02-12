@@ -298,8 +298,8 @@ body {
 
   .background-image {
     display: block;
-    width: 300%;
-    height: 200%;
+    width: 70%;
+    height: 50%;
     background-size: contain;
     background-position: center;
     z-index: -1; /* Para garantir que a imagem de fundo fique atrás de outros conteúdos */
