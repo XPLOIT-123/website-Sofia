@@ -255,7 +255,7 @@ const animationTimeline = () => {
       y: 30,
       zIndex: "-1",
     })
-    .from(".image-element", 0.5, {
+    .staggerFromTo(".image-element", 0.5, {
       opacity: 0, // opacidade inicial (imagem invisível)
       scale: 0.5, // escala inicial (opcional)
       ease: Power1.easeInOut // tipo de transição (opcional)
