@@ -297,30 +297,16 @@ body {
   }
 
   .background-image {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url('caminho_para_sua_imagem_de_fundo');
-  background-size: cover;
-  z-index: -1; /* Para garantir que a imagem de fundo fique atrás de outros conteúdos */
-}
-
-.rose {
-  position: absolute;
-  /* Defina as posições das rosas conforme necessário */
-}
-
-.rose:nth-child(1) {
-  top: 100px;
-  left: 100px;
-}
-
-.rose:nth-child(2) {
-  top: 200px;
-  left: 200px;
-}
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('caminho_para_sua_imagem_de_fundo');
+    background-size: cover;
+    background-position: center;
+    z-index: -1; /* Para garantir que a imagem de fundo fique atrás de outros conteúdos */
+  }
 
 
   .nine p {
