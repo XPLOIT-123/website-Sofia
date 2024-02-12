@@ -297,14 +297,9 @@ body {
   }
 
   .background-image {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 200%;
+    display: block;
+    width: 300%;
     height: 200%;
-    background-image: url('caminho_para_sua_imagem_de_fundo');
-    background-size: cover;
-    background-position: center;
     z-index: -1; /* Para garantir que a imagem de fundo fique atrás de outros conteúdos */
   }
 
