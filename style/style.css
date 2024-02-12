@@ -300,6 +300,8 @@ body {
     display: block;
     width: 300%;
     height: 200%;
+    background-size: contain;
+    background-position: center;
     z-index: -1; /* Para garantir que a imagem de fundo fique atrás de outros conteúdos */
   }
 
